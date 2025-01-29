@@ -1,10 +1,11 @@
 # NTU PhD Qualifying Examination (QE) materials 
 ## Resources in this repository 
 
-1) QE report in PDF & Latex.
-3) Required Documents need to be submitted.
-2) Presentation Slides.
-3) Presentation Video: (to be uploaded) 
+1) QE report (pdf): "1_QE_report.pdf"
+2) QE source code (tex): "2_latex_source.zip" 
+3) Title, Abstract and Question List: "3_Title_Abstract_Questions.pdf"
+4) Presentation Slides: "4_presentation_slides.pdf"
+5) Presentation Video: (to be uploaded) 
 
 **<ins>Lessons I learned from preparing my QE</ins>:**
 1) When you prepare the question list for you QE draft, try to use more questions like: "Why? How?" instead of "What?".
