@@ -4,7 +4,7 @@
 1) QE report (pdf): "1_QE_report.pdf"
 2) QE source code (tex): "2_latex_source.zip" 
 3) Title, Abstract and Question List: "3_Title_Abstract_Questions.pdf"
-4) Presentation Slides: "4_presentation_slides.pdf"
+4) Presentation Slides: [link](https://docs.google.com/presentation/d/1oOHMLyiG9WtCqlSiPCJea9w4SOiVA17C9hsX0InUlDQ/edit?usp=sharing)
 5) Presentation Video: (to be uploaded) 
 
 **<ins>Lessons I learned from preparing my QE</ins>:**
