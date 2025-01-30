@@ -5,7 +5,7 @@
 2) QE source code (tex): "2_latex_source.zip" 
 3) Title, Abstract and Question List: "3_Title_Abstract_Questions.pdf"
 4) Presentation Slides: "4_presentation_slides.pdf"
-5) Presentation Video: (to be uploaded) 
+5) Presentation Video: [link](https://youtu.be/s-dUN3g4zHk)
 
 **<ins>Lessons I learned from preparing my QE</ins>:**
 1) When you prepare the question list for you QE draft, try to use more questions like: "Why? How?" instead of "What?".
