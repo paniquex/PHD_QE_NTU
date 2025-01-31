@@ -14,6 +14,8 @@
 * Prof. Kong Aik Lee
 * Dr. Sailor Hardik Bhupendra
 
+**Examination date:** 24 Jan 2025
+
 ## Resources in this repository 
 
 1) QE report (pdf): "1_QE_report.pdf"
