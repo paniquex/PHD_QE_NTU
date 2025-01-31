@@ -1,4 +1,9 @@
 # NTU PhD Qualifying Examination (QE) materials 
+
+**Student Name:** Nikita Kuzmin
+
+**QE title:** Enhancing Speaker Anonymization Using Disentanglement Learning
+
 ## Resources in this repository 
 
 1) QE report (pdf): "1_QE_report.pdf"
